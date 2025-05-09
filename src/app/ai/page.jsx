@@ -298,7 +298,7 @@ const Page = () => {
         }
       `}</style>
 
-      <div className="text-center mt-5 text-blue-500 hover:cursor-pointer underline"  ><Link href="https://utkrsh-singh.vercel.app/" target="_blank">Your Next sugar daddy is here</Link></div>
+      <div className="text-center mt-5 text-blue-500 hover:cursor-pointer underline"  ><Link href="https://utkrsh-singh.vercel.app/" target="_blank">Builder</Link></div>
     </div>
   )
 }
