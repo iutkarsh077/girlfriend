@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
         className={`${poppinsFonts.variable} ${geistMono.variable} antialiased`}
       >
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-2QCTVGHN51"
+          src="https://www.googletagmanager.com/gtag/js?id=G-DW7LMK4W2T"
           strategy="afterInteractive"
         />
         <Script id="google-analytics" strategy="afterInteractive">
@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-2QCTVGHN51');
+            gtag('config', 'G-DW7LMK4W2T');
           `}
         </Script>
         {children}
