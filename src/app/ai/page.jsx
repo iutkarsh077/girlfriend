@@ -207,7 +207,7 @@ const Page = () => {
       ) : (
         <div className="max-w-3xl w-full mx-auto rounded-xl bg-gray-800/50 backdrop-blur-sm shadow-xl overflow-hidden border border-gray-700">
           <div className="bg-gray-800 p-4 border-b border-gray-700">
-            <h1 className="text-white text-xl font-bold text-center">Hello, {userName} baby!</h1>
+            <h1 className="text-white text-xl font-bold text-center">Hello, {userName}!</h1>
           </div>
 
           <div className="p-4 flex flex-col sm:flex-row items-center justify-between gap-4">
